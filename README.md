@@ -1,6 +1,6 @@
 ## Games List
 00. [ ] TIC-TAC-TOE
-01. [ ] PONG
+01. [X] PONG
 02. [ ] BREAKOUT
 03. [ ] TETRIS
 04. [ ] SNAKE
