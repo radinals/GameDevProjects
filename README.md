@@ -1,5 +1,5 @@
 ## Games List
-00. [ ] TIC-TAC-TOE
+00. [X] TIC-TAC-TOE (WIP)
 01. [X] PONG
 02. [ ] BREAKOUT
 03. [ ] TETRIS
