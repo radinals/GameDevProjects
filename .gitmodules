@@ -1,6 +1,0 @@
-[submodule "Pong"]
-	path = Pong
-	url = https://github.com/radinals/Pong
-[submodule "TicTacToe"]
-	path = TicTacToe
-	url = https://github.com/radinals/TicTacToe
